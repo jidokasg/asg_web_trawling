@@ -29,4 +29,4 @@ Download "download_journal-v3-windows.py" to your local machine
 Execute the file using command line >> python download_journal-v3-windows.py 
 >>Please refer to guide provided previously on how to navigate and execute script
 >>First prompt will ask you to select your chromedriver, the next window to select the csv file, typing y to login, key in username and password.
->>Please ensure that a folder named "asg_idl" is created on your desktop for it to work correctly. 
+>>Please ensure that a folder named "asg_dl" is created on your desktop for it to work correctly. 
